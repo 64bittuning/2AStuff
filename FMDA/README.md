@@ -1,0 +1,1 @@
+This folder contains various modified versions of the FMDA Glock files. In order to complete these, you will need the FMDA rail sets. The only irregular frames here are the G19X, which will use Glock 17 round mags or larger. And the G19L, which will accept Glock 15 round mags and larger, but uses the rail and locking block assemblies of the Glock 17 (FMDA 17.4)
